@@ -1,4 +1,4 @@
-# Modelo supervisado
+# Predicción de Salarios y Clasificación con Machine Learning
 
 ## 📝 Descripción
 Este proyecto tiene como objetivo diseñar y aplicar modelos de Machine Learning Supervisado para resolver dos problemas distintos utilizando un conjunto de datos de Recursos Humanos:
